@@ -1,0 +1,13 @@
+Final references
+
+//fmod
+https://cuboidzone.wordpress.com/2013/07/26/tutorial-implementing-fmod/
+
+https://katyscode.wordpress.com/2013/01/16/cutting-your-teeth-on-fmod-part-4-frequency-analysis-graphic-equalizer-beat-detection-and-bpm-estimation/
+
+
+//song converter
+http://online-audio-converter.com/
+
+//audio help
+http://thestereobus.com/2008/01/12/sample-rate-and-bitrate-the-guts-of-digital-audio/
